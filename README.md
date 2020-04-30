@@ -29,7 +29,7 @@
 
 1. 前端框架及项目面试－聚焦Vue、React、Webpack 100%✅
 2. Vue.js源码全方位深入解析 10%
-
+3. typescript重构axios 100%✅
 
 
 #### 2020 下半年 todo
